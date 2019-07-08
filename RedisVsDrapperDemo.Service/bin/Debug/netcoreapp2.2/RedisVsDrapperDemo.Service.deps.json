@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "RedisVsDrapperDemo.Service/1.0.0": {
+        "dependencies": {
+          "RedisVsDrapperDemo.Model": "1.0.0"
+        },
+        "runtime": {
+          "RedisVsDrapperDemo.Service.dll": {}
+        }
+      },
+      "RedisVsDrapperDemo.Model/1.0.0": {
+        "runtime": {
+          "RedisVsDrapperDemo.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RedisVsDrapperDemo.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RedisVsDrapperDemo.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

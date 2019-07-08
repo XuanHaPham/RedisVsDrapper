@@ -1,0 +1,14 @@
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.dll
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.csproj.CoreCompileInputs.cache
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.AssemblyInfoInputs.cache
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.AssemblyInfo.cs
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.csprojAssemblyReference.cache
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.deps.json
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.dll
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.pdb
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.dll
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.pdb
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.pdb
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.csproj.CopyComplete
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.dll
+D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Repository\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Repository.pdb
