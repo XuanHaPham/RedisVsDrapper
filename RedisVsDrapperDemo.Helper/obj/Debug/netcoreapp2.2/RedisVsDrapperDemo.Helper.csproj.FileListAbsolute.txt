@@ -7,3 +7,15 @@ D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Helper\obj\Debug\netco
 D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Helper\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.pdb
 D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.dll
 D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.deps.json
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.dll
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.csproj.CoreCompileInputs.cache
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.AssemblyInfoInputs.cache
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.AssemblyInfo.cs
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.dll
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.dll
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.csprojAssemblyReference.cache
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Helper\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Helper.csproj.CopyComplete

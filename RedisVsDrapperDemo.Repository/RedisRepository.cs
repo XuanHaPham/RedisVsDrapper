@@ -28,7 +28,8 @@ namespace RedisVsDrapperDemo.Repository
         }
         public static IDatabase Database = InitDB(Single.Value, ConnectionModel.DBNumber);
         public static IServer Server = InitServer(Single.Value, ConnectionModel.Server);
-        //public IUnitOfWork UnitOfWork => throw new NotImplementedException();
+
+        public IUnitOfWork UnitOfWork => throw new NotImplementedException();
 
         public static IServer InitServer(ConnectionMultiplexer redis, string Server)
         {

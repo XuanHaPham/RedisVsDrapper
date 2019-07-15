@@ -3186,6 +3186,63 @@
           "lib/netstandard2.0/StackExchange.Redis.dll": {}
         }
       },
+      "Swashbuckle.AspNetCore/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "4.0.1",
+          "Swashbuckle.AspNetCore.SwaggerGen": "4.0.1",
+          "Swashbuckle.AspNetCore.SwaggerUI": "4.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.dll": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Core": "2.0.0",
+          "Microsoft.AspNetCore.Mvc.Formatters.Json": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.0.0",
+          "Microsoft.AspNetCore.Mvc.DataAnnotations": "2.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "4.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/4.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Routing": "2.0.0",
+          "Microsoft.AspNetCore.StaticFiles": "2.0.0",
+          "Microsoft.Extensions.FileProviders.Embedded": "2.0.0",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4838,7 +4895,8 @@
           "Microsoft.Extensions.Configuration.Binder": "2.2.4",
           "Microsoft.Extensions.Configuration.FileExtensions": "2.2.0",
           "Microsoft.Extensions.Configuration.Json": "2.2.0",
-          "Newtonsoft.Json": "12.0.2"
+          "Newtonsoft.Json": "12.0.2",
+          "RedisVsDrapperDemo.Model": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RedisVsDrapperDemo.Helper.dll": {}
@@ -4851,7 +4909,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "Dapper": "1.60.6"
+          "Swashbuckle.AspNetCore": "4.0.1"
         },
         "compile": {
           "bin/placeholder/RedisVsDrapperDemo.Model.dll": {}
@@ -4864,6 +4922,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "Dapper": "1.60.6",
           "Newtonsoft.Json": "12.0.2",
           "RedisVsDrapperDemo.Helper": "1.0.0",
           "RedisVsDrapperDemo.Model": "1.0.0",
@@ -4880,7 +4939,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "RedisVsDrapperDemo.Model": "1.0.0"
+          "RedisVsDrapperDemo.Model": "1.0.0",
+          "RedisVsDrapperDemo.Repository": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RedisVsDrapperDemo.Service.dll": {}
@@ -8651,6 +8711,57 @@
         "lib/netstandard2.0/StackExchange.Redis.xml",
         "stackexchange.redis.2.0.601.nupkg.sha512",
         "stackexchange.redis.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore/4.0.1": {
+      "sha512": "Zq6lkFieuFPNDwXwQ+e8i5zy2VMrexcRFU8mQORxqIc8r7Y+qKX63vg57yL1HeGCINHQGGzxGfw2rP63IeEqhg==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.dll",
+        "swashbuckle.aspnetcore.4.0.1.nupkg.sha512",
+        "swashbuckle.aspnetcore.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.Swagger/4.0.1": {
+      "sha512": "rqzS3vHrjz+tR5j0nZOKZyaMTDfLGbVYkwMq205aYuGbsiGwbOlNU0Q8lq4Q0ptQPMKVkUf8XouCIdJ3qpK17w==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swagger/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.Swagger.xml",
+        "swashbuckle.aspnetcore.swagger.4.0.1.nupkg.sha512",
+        "swashbuckle.aspnetcore.swagger.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/4.0.1": {
+      "sha512": "ztAj0T1U+2AqQNA8b+nr8yVkDW9XzNaAfez6d1jO13sdn2A/JW5Syn9TThsakrHxYNLt6y6aQCXbyBfQXpcQwA==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggergen/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerGen.xml",
+        "swashbuckle.aspnetcore.swaggergen.4.0.1.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggergen.nuspec"
+      ]
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/4.0.1": {
+      "sha512": "d2U7NyV0e4UhyCzAVK9QHm0iz2QoVPUa9XzJ/Gr0rn/jBZWFpVLvigKv0vxFzO2E793sY605+4h885gvCdKSxQ==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggerui/4.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "swashbuckle.aspnetcore.swaggerui.4.0.1.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -13317,13 +13428,15 @@
     ".NETCoreApp,Version=v2.2": [
       "Autofac >= 4.9.2",
       "Autofac.Extensions.DependencyInjection >= 4.4.0",
+      "Dapper >= 1.60.6",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
       "RedisVsDrapperDemo.Model >= 1.0.0",
       "RedisVsDrapperDemo.Repository >= 1.0.0",
-      "RedisVsDrapperDemo.Service >= 1.0.0"
+      "RedisVsDrapperDemo.Service >= 1.0.0",
+      "Swashbuckle.AspNetCore >= 4.0.1"
     ]
   },
   "packageFolders": {
@@ -13333,11 +13446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo\\RedisVsDrapperDemo.csproj",
+      "projectUniqueName": "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.csproj",
       "projectName": "RedisVsDrapperDemo",
-      "projectPath": "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo\\RedisVsDrapperDemo.csproj",
+      "projectPath": "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.csproj",
       "packagesPath": "C:\\Users\\KOLABS PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo\\obj\\",
+      "outputPath": "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13356,14 +13469,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.Model\\RedisVsDrapperDemo.Model.csproj": {
-              "projectPath": "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.Model\\RedisVsDrapperDemo.Model.csproj"
+            "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo.Model\\RedisVsDrapperDemo.Model.csproj": {
+              "projectPath": "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo.Model\\RedisVsDrapperDemo.Model.csproj"
             },
-            "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.Repository\\RedisVsDrapperDemo.Repository.csproj": {
-              "projectPath": "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.Repository\\RedisVsDrapperDemo.Repository.csproj"
+            "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo.Repository\\RedisVsDrapperDemo.Repository.csproj": {
+              "projectPath": "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo.Repository\\RedisVsDrapperDemo.Repository.csproj"
             },
-            "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.Service\\RedisVsDrapperDemo.Service.csproj": {
-              "projectPath": "D:\\Training\\Drapper\\RedisVsDrapperDemo\\RedisVsDrapperDemo.Service\\RedisVsDrapperDemo.Service.csproj"
+            "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo.Service\\RedisVsDrapperDemo.Service.csproj": {
+              "projectPath": "D:\\Training\\Drapper\\Dapper03\\RedisVsDrapper\\RedisVsDrapperDemo.Service\\RedisVsDrapperDemo.Service.csproj"
             }
           }
         }
@@ -13385,6 +13498,10 @@
             "target": "Package",
             "version": "[4.4.0, )"
           },
+          "Dapper": {
+            "target": "Package",
+            "version": "[1.60.6, )"
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
@@ -13405,6 +13522,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.3, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[4.0.1, )"
           }
         },
         "imports": [

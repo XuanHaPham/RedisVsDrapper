@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using RedisVsDapperDemo.Helper;
 
 namespace RedisVsDrapperDemo
 {
@@ -14,6 +15,7 @@ namespace RedisVsDrapperDemo
     {
         public static void Main(string[] args)
         {
+            ConfigHelper.Init();
             CreateWebHostBuilder(args).Build().Run();
         }
 

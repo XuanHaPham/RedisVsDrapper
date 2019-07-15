@@ -7,3 +7,16 @@ D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Model\obj\Debug\netcor
 D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.AssemblyInfo.cs
 D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.dll
 D:\Training\Drapper\RedisVsDrapperDemo\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.deps.json
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.dll
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\bin\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.xml
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.csproj.CoreCompileInputs.cache
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.AssemblyInfoInputs.cache
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.AssemblyInfo.cs
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.csproj.CopyComplete
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.dll
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.pdb
+D:\Training\Drapper\Dapper03\RedisVsDrapper\RedisVsDrapperDemo.Model\obj\Debug\netcoreapp2.2\RedisVsDrapperDemo.Model.csprojAssemblyReference.cache

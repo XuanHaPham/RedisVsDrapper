@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RedisVsDrapperDemo.Model\RedisVsDrapperDemo.Model.csproj" />
+    <ProjectReference Include="..\RedisVsDrapperDemo.Repository\RedisVsDrapperDemo.Repository.csproj" />
   </ItemGroup>
 
 </Project>
